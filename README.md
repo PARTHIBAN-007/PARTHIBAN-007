@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthiban K</h1>
-<h3 align="center">As an aspiring Data scientist and Machine Learning Engineer, I enhance my skills through hands-on projects, stay updated with industry trends, and am committed to continuous learning and innovative problem-solving.</h3>
+<h3 align="center">As an aspiring Data scientist, I enhance my skills through hands-on projects, stay updated with industry trends, and am committed to continuous learning and innovative problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiban-007&label=Profile%20views&color=0e75b6&style=flat" alt="parthiban-007" /> </p>
 
