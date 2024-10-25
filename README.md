@@ -25,11 +25,15 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="60"/> </a> 
 <img src="https://th.bing.com/th/id/OIP.nsOR8EDllf1IjDAX9z0xxQHaHa?w=145&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="60" width="60"/>  
+
+
   
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="60" /> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthiban-007&show_icons=true&locale=en&layout=compact" alt="parthiban-007" /></p>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PARTHIBAN-007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHIBAN-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
