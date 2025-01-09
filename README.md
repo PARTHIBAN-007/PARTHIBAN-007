@@ -25,14 +25,16 @@
 <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-476x512-106d391z.png" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="60"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="60"/> 
+  <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="Pytorch" width="80" height="80"/> 
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> 
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="hugging face" width="80" height="60"/> 
+
 </p>
 <p >
  <h3 align="left">MLops Tools</h3>
 <p align="left">
-
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"  width="60" height="60" />
-<img src="https://i.pinimg.com/originals/dc/24/f9/dc24f9a1a7794327d24aa6c5b8d10da4.png"  width="100" height="60"/>
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"  width="60" height="60"/>
+<img src="https://github.com/mlflow-automation.png"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> 
 </p>
