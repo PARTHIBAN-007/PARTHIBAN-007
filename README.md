@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthiban K</h1>
-<h3 align="center">Aspiring data scientist with a passion for turning raw data into actionable insights. Proficient in Python and SQL, I
+<h3 align="center">Aspiring data scientist/ML Engineer with a passion for turning raw data into actionable insights. Proficient in Python and SQL, I
  have completed hands-on projects in areas like machine learning and deep learning. My commitment to continuous
  learning drives me to stay updated with industry trends and explore innovative solutions.</h3>
 
