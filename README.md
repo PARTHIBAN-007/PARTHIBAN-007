@@ -39,6 +39,48 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> 
 </p>
 
+<!--
+<p>
+  <h1 align="left">LLM Projects:</h1>
+  <p align="left">
+    <h3>HireAI</h3>
+    <h3>MindQuest</h3>
+    <h3>AgenticRAG</h3>
+    <h3>Gemini RAG</h3>
+    <h3>VisionFlow</h3>
+  </p>
+</p>
+
+<p>
+  <h1 align="left">ML Projects:</h1>
+  <p align="left">
+    <h3>Loan Approval Calculator</h3>
+    <h3>Uber ETA Prediction</h3>
+    <h3>Plant Disease Classifier</h3>
+    <h3>Medical Diagnosis AI</h3>
+  </p>
+</p>
+<br>
+-->
+#  LLM & ML Projects  
+
+##  LLM Projects
+| Project Name  | Description |
+|--------------|------------|
+| **HireAI**  | AI-powered hiring assistant  |
+| **MindQuest**  | AI-driven quiz generation  |
+| **AgenticRAG**  | Retrieval-Augmented Generation with agents |
+| **Gemini RAG**  | Advanced RAG using Gemini LLM |
+| **VisionFlow**  | AI-powered MindMAP Generator |
+
+##  ML Projects
+| Project Name  | Description |
+|--------------|------------|
+| **Loan Approval Calculator**  | Predicts loan approval chances  |
+| **Uber ETA Prediction**  | Estimates Uber arrival time  |
+| **Plant Disease Classifier**  | Detects diseases in plants  |
+| **Medical Diagnosis AI**  | AI-based medical predictions  |
+
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PARTHIBAN-007&theme=dark&hide_border=false)<br/>
