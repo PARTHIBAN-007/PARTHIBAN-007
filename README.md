@@ -27,14 +27,21 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="60"/> 
   <img src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png" alt="Pytorch" width="80" height="80"/> 
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="60"/> 
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="hugging face" width="80" height="60"/> 
 
 </p>
+<p >
+ <h3 align="left">GenAI Tools</h3>
+<p align="left">
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="hugging face" width="80" height="60"/> 
+<img src="https://www.calsoftinc.com/wp-content/uploads/2023/06/LangChain-logo.png" alt="Langchain" width="100" height="60"/> 
+</p>
+
 <p >
  <h3 align="left">MLops Tools</h3>
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"  width="60" height="60"/>
 <img src="https://github.com/mlflow-automation.png"  width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="Streamlit" width="80" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> 
 </p>
