@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiban-007&label=Profile%20views&color=0e75b6&style=flat" alt="parthiban-007" /> </p>
 
+<h3 align="left">Resume : </h3>
+<a href="https://drive.google.com/file/d/1X4NWUv20lDV3KmypUpjIAssMFy92T3hM/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook" target="blank">Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
