@@ -42,8 +42,10 @@
  <h3 align="left">MLops Tools</h3>
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"  width="60" height="60"/>
-<img src="https://github.com/mlflow-automation.png"  width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="Streamlit" width="80" height="60"/> 
+<img src="https://github.com/mlflow-automation.png"  width="50" height="50"/>
+ <img src="https://learnmonkey.github.io/images/programming/python/fastapi/logo.png"  width="100" height="70"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="Streamlit" width="70" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> 
 </p>
@@ -74,21 +76,24 @@
 #  LLM & ML Projects  
 
 ##  LLM Projects
-| Project Name  | Description |
+| Project Name  | Tech Stack |
 |--------------|------------|
-| **HireAI**  | AI-powered hiring assistant  |
-| **MindQuest**  | AI-driven quiz generation  |
-| **AgenticRAG**  | Retrieval-Augmented Generation with agents |
-| **Gemini RAG**  | Advanced RAG using Gemini LLM |
-| **VisionFlow**  | AI-powered MindMAP Generator |
+| **HireAI**  | Gemini-Flash-1.5,Python(FastAPI)  |
+| **MindQuest**  | Gemini-Flash-1.5,Python(FastAPI) |
+| **AgenticRAG**  | Cohere,Qdrant , streamlit |
+| **Gemini RAG**  | Gemini-Flash-1.5 ,Langchain, Streamlit |
+| **VisionFlow**  | Gemini-Flash-1.5 ,Langchain, Streamlit |
+| **Conversational QA**  | Gemini-Flash-1.5 ,Langchain, Streamlit,Sqlite |
+
 
 ##  ML Projects
 | Project Name  | Description |
 |--------------|------------|
-| **Loan Approval Calculator**  | Predicts loan approval chances  |
-| **Uber ETA Prediction**  | Estimates Uber arrival time  |
-| **Plant Disease Classifier**  | Detects diseases in plants  |
-| **Medical Diagnosis AI**  | AI-based medical predictions  |
+| **Loan Approval Calculator**  | Decision Tree , Docker , Streamlit  |
+| **Uber ETA Prediction**  |  Linear Regression , Docker , Streamlit |
+| **Stock Price Predictor**  | LSTM , PyTorch , Docker , Streamlit |
+| **Plant Disease Classifier**  | CNN , tensorFlow , Python(FastAPI)  |
+| **Medical Diagnosis AI**  | Support Vecotor Machines , FastAPI |
 
 
 
