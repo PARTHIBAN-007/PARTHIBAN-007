@@ -50,29 +50,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> 
 </p>
 
-<!--
-<p>
-  <h1 align="left">LLM Projects:</h1>
-  <p align="left">
-    <h3>HireAI</h3>
-    <h3>MindQuest</h3>
-    <h3>AgenticRAG</h3>
-    <h3>Gemini RAG</h3>
-    <h3>VisionFlow</h3>
-  </p>
-</p>
 
-<p>
-  <h1 align="left">ML Projects:</h1>
-  <p align="left">
-    <h3>Loan Approval Calculator</h3>
-    <h3>Uber ETA Prediction</h3>
-    <h3>Plant Disease Classifier</h3>
-    <h3>Medical Diagnosis AI</h3>
-  </p>
-</p>
-<br>
--->
 #  LLM & ML Projects  
 
 ##  LLM Projects
