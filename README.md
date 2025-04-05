@@ -68,6 +68,7 @@
 ##  ML Projects
 | Project Name  | Description |
 |--------------|------------|
+| **Credit Risk Assessment - Mlops**  | Decision Tree, Mlflow, FastAPI, Docker,GitHub Actions, Evidently AI, Streamlit |
 | **Loan Approval Calculator**  | Decision Tree , Docker , Streamlit  |
 | **Uber ETA Prediction**  |  Linear Regression , Docker , Streamlit |
 | **Stock Price Predictor**  | LSTM , PyTorch , Docker , Streamlit |
