@@ -60,9 +60,9 @@
 | **MindQuest**  | Gemini-Flash-1.5,Python(FastAPI) |
 | **AgenticRAG**  | Cohere,Qdrant ,DuckDuckGoSearch, streamlit |
 | **Gemini RAG**  | Gemini-Flash-1.5 ,Langchain, Streamlit |
+| **NL2SQL**  | Llama,Langchain,Streamlit,Sqlite |
 | **AI News Generator**  | Gemini-Flash-1.5 ,DuckDuckGoSearch, Langchain, Streamlit |
 | **YT Summarizer**  | Gemini-Flash-1.5 ,Langchain, beautifulsoup, Streamlit |
-| **Conversational QA**  | Gemini-Flash-1.5 ,Langchain, Streamlit,Sqlite |
 
 
 ##  ML Projects
