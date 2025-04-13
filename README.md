@@ -56,13 +56,13 @@
 ##  LLM Projects
 | Project Name  | Tech Stack |
 |--------------|------------|
-| **HireAI**  | Gemini-Flash-1.5,Python(FastAPI)  |
-| **MindQuest**  | Gemini-Flash-1.5,Python(FastAPI) |
-| **AgenticRAG**  | Cohere,Qdrant ,DuckDuckGoSearch, streamlit |
-| **Gemini RAG**  | Gemini-Flash-1.5 ,Langchain, Streamlit |
-| **NL2SQL**  | Llama,Langchain,Streamlit,Sqlite |
-| **AI News Generator**  | Gemini-Flash-1.5 ,DuckDuckGoSearch, Langchain, Streamlit |
-| **YT Summarizer**  | Gemini-Flash-1.5 ,Langchain, beautifulsoup, Streamlit |
+| [**HireAI**](https://github.com/PARTHIBAN-007/Hire-AI)  | Gemini-Flash-1.5,Python(FastAPI)  |
+| [**MindQuest**](https://github.com/PARTHIBAN-007/MindQuest)  | Gemini-Flash-1.5,Python(FastAPI) |
+| [**AgenticRAG**](https://github.com/PARTHIBAN-007/Agentic-RAG)  | Cohere,Qdrant ,DuckDuckGoSearch, streamlit |
+| [**Gemini RAG**](https://github.com/PARTHIBAN-007/QA-Gemini-RAG)  | Gemini-Flash-1.5 ,Langchain, Streamlit |
+| [**NL2SQL**](https://github.com/PARTHIBAN-007/NL2SQL)  | Llama,Langchain,Streamlit,Sqlite |
+| [**AI News Generator**](https://github.com/PARTHIBAN-007/AI-news-Generator)  | Gemini-Flash-1.5 ,DuckDuckGoSearch, Langchain, Streamlit |
+| [**YT Summarizer**](https://github.com/PARTHIBAN-007/YT-Summarizer)  | Gemini-Flash-1.5 ,Langchain, beautifulsoup, Streamlit |
 
 
 ##  ML Projects
