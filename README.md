@@ -68,12 +68,12 @@
 ##  ML Projects
 | Project Name  | Description |
 |--------------|------------|
-| **Credit Risk Assessment - Mlops**  | Decision Tree, Mlflow, FastAPI, Docker,GitHub Actions, Evidently AI, Streamlit |
-| **Loan Approval Calculator**  | Decision Tree , Docker , Streamlit  |
-| **Uber ETA Prediction**  |  Linear Regression , Docker , Streamlit |
-| **Stock Price Predictor**  | LSTM , PyTorch , Docker , Streamlit |
-| **Plant Disease Classifier**  | CNN , tensorFlow , Python(FastAPI)  |
-| **Medical Diagnosis AI**  | Support Vecotor Machines , FastAPI |
+| [**Credit Risk Assessment - Mlops**](https://github.com/PARTHIBAN-007/Mlops)  | Decision Tree, Mlflow, FastAPI, Docker,GitHub Actions, Evidently AI, Streamlit |
+| [**Loan Approval Calculator**](https://github.com/PARTHIBAN-007/Loan-Approval-Calculator)  | Decision Tree , Docker , Streamlit  |
+| [**Uber ETA Prediction**](https://github.com/PARTHIBAN-007/Uber-ETA)  |  Linear Regression , Docker , Streamlit |
+| [**Stock Price Predictor**](https://github.com/PARTHIBAN-007/Stock-Price-Predictor)  | LSTM , PyTorch , Docker , Streamlit |
+| [**Plant Disease Classifier**](https://github.com/PARTHIBAN-007/Plant_Disease_Classifier)  | CNN , tensorFlow , Python(FastAPI)  |
+| [**Medical Diagnosis AI**](https://github.com/PARTHIBAN-007/MEDICAL_DIAGNOSIS_AI)  | Support Vecotor Machines , FastAPI |
 
 
 
