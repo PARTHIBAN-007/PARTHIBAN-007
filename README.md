@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parthiban K</h1>
-<h3 align="center">Aspiring data scientist/ML Engineer with a passion for turning raw data into actionable insights. Proficient in Python and SQL, I
- have completed hands-on projects in areas like machine learning and deep learning. My commitment to continuous
+<h3 align="center">Aspiring Data scientist/ML Engineer with a passion for turning raw data into actionable insights. Proficient in Python and SQL, I
+ have completed hands-on projects in areas like machine learning, deep learning, Natural Language Processing and Large Language Model. My commitment to continuous
  learning drives me to stay updated with industry trends and explore innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiban-007&label=Profile%20views&color=0e75b6&style=flat" alt="parthiban-007" /> </p>
