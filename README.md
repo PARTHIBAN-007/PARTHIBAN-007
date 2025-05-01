@@ -68,6 +68,7 @@
 ##  ML Projects
 | Project Name  | Description |
 |--------------|------------|
+| [**Visa Approval - Mlops**](https://github.com/PARTHIBAN-007/Visa_Approval-MLOps)  | LightGBM, SHAP ,Mlflow, FastAPI,Streamlit, Docker(AWS ECR),GitHub Actions,AWS EC2 |
 | [**Credit Risk Assessment - Mlops**](https://github.com/PARTHIBAN-007/Mlops)  | Decision Tree, Mlflow, FastAPI, Docker,GitHub Actions, Evidently AI, Streamlit |
 | [**Loan Approval Calculator**](https://github.com/PARTHIBAN-007/Loan-Approval-Calculator)  | Decision Tree , Docker , Streamlit  |
 | [**Uber ETA Prediction**](https://github.com/PARTHIBAN-007/Uber-ETA)  |  Linear Regression , Docker , Streamlit |
