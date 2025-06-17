@@ -56,7 +56,7 @@
 ##  LLM Projects
 | Project Name  | Tech Stack |
 |--------------|------------|
-| [**Indian AI Finance Assistant**](https://github.com/PARTHIBAN-007/Indian-AI-Finance-Assistant)  | Llama-4-maverick(Groq), Python(FastAPI), Langchain, Langgraph, Tavily, Qdrant, Opik Comet, React+Vite, Docker |
+| [**MoneyMentor**](https://github.com/PARTHIBAN-007/Indian-AI-Finance-Assistant)  | Llama-4-maverick(Groq), Python(FastAPI), Langchain, Langgraph, Tavily, Qdrant, Opik Comet, React+Vite, Docker |
 | [**HireAI**](https://github.com/PARTHIBAN-007/Hire-AI)  | Gemini-Flash-1.5,Python(FastAPI),Langchain ,React js |
 | [**MindQuest**](https://github.com/PARTHIBAN-007/MindQuest)  | Gemini-Flash-1.5,Python(FastAPI) |
 | [**AgenticRAG**](https://github.com/PARTHIBAN-007/Agentic-RAG)  | Cohere,Qdrant ,DuckDuckGoSearch, streamlit |
