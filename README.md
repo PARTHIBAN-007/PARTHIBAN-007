@@ -44,8 +44,6 @@
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"  width="60" height="60"/>
 <img src="https://github.com/mlflow-automation.png"  width="50" height="50"/>
  <img src="https://learnmonkey.github.io/images/programming/python/fastapi/logo.png"  width="100" height="70"/>
-
-<img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="Streamlit" width="70" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/> 
 </p>
